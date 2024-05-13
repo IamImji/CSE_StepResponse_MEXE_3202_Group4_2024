@@ -14,6 +14,7 @@ denominator4 = [1 1];
 TF4 = tf(numerator4, denominator4)
 
 %% step response
-step(TF4,0:0.1:30)
-figure
+figure(1);
 step(TF3,0:0.1:30)
+figure(2);
+step(TF4,0:0.1:30)
