@@ -125,7 +125,7 @@
 </div>
 
 ## V. Members
-### * Cullos, Kristina Crisandra M.
-### * Garcia, Mark Jeffereson R.
-### * Mirabel, Jan Andrei A.
-### * Rayos, Christine Mae C.
+* ###  Cullos, Kristina Crisandra M.
+* ###  Garcia, Mark Jeffereson R.
+* ###  Mirabel, Jan Andrei A.
+* ###  Rayos, Christine Mae C.
