@@ -32,15 +32,19 @@
 
 </div>
 
+
 ### 2. Second Order Overdamped System
 
 <div align="center">
    
-| *Example*                |
-|-----------------------   |
-|![Screenshot 2024-05-13 154205](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/01ae9559-b651-4a30-ad0c-a5bea93ef90c) |
+| *Transfer Function*                | *Block Diagram*               |
+|-----------------------   |-----------------------   |
+|  ![Screenshot 2024-05-13 154205](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/01ae9559-b651-4a30-ad0c-a5bea93ef90c) | ![Screenshot 2024-05-13 171128](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/87ab3b16-2450-44f5-9721-0f9bd9a0f482) |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+| ![Screenshot 2024-05-13 172053](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/470c7cdb-4e40-4623-879f-6a7e61c39df8) |<div align="center">![Screenshot 2024-05-13 172122](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/261ac805-badc-408b-b584-551925b3fa7d)</div> |
 
 </div>
+
 
 ### 3. Second Order Critically Damped System
 
@@ -53,7 +57,6 @@
 </div>
 
 
-
 ### 4. First Order System
 
 <div align="center">
@@ -63,6 +66,7 @@
 | ![Screenshot 2024-05-13 154237](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/15fe41bd-b0fe-4f2a-8913-205d06cce2d2) |
 
 </div>
+
 
 ### 5. Resonant System
 
@@ -76,6 +80,7 @@
 
 </div>
 
+
 ### 6. Electrical Filter with Multiple Poles
 
 <div align="center">
@@ -88,6 +93,7 @@
 
 </div>
 
+
 ### 7. Plant with Time Delay
 
 <div align="center">
@@ -98,6 +104,7 @@
 
 </div>
 
+
 ### 8. Nonlinear System Approximation
 <div align="center">
    
@@ -106,17 +113,6 @@
 |![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |
 
 </div>
-
-### 2. Second Order Overdamped System
-
-<div align="center">
-   
-| *Example*                |
-|-----------------------   |
-|                          |
-
-</div>
-
 
 ## V. Members
 ### * Cullos, Kristina Crisandra M.
