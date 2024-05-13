@@ -50,9 +50,11 @@
 
 <div align="center">
    
-| *Example*                |
-|-----------------------   |
-|![Screenshot 2024-05-13 154227](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/86c425e8-e998-4ce8-a402-57bcf6b62b85) |
+| *Transfer Function*                | *Block Diagram*               |
+|-----------------------   |-----------------------   |
+|  <div align="center">![Screenshot 2024-05-13 154227](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/86c425e8-e998-4ce8-a402-57bcf6b62b85)</div>  | ![Screenshot 2024-05-13 173641](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/9a1fe9b9-5f9b-48ec-a663-9dd41b1abd37) |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+| ![Screenshot 2024-05-13 172140](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/723ca7a3-2003-4798-a15b-8c40181af8be) | <div align="center">![Screenshot 2024-05-13 173508](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/507df614-088f-4fbc-ab34-ce925088d108)</div> |
 
 </div>
 
@@ -61,9 +63,11 @@
 
 <div align="center">
    
-| *Example*                |
-|-----------------------   |
-| ![Screenshot 2024-05-13 154237](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/15fe41bd-b0fe-4f2a-8913-205d06cce2d2) |
+| *Transfer Function*                | *Block Diagram*               |
+|-----------------------   |-----------------------   |
+|  <div align="center">![Screenshot 2024-05-13 154237](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/15fe41bd-b0fe-4f2a-8913-205d06cce2d2)</div>  | ![Screenshot 2024-05-13 171147](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/24c2654e-b2b5-44cd-af09-5262ff83c8d2) |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+| ![Screenshot 2024-05-13 174352](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/7103b777-d705-4d6a-981f-aadb34cfd115) | <div align="center">![Screenshot 2024-05-13 174544](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/0da59990-c99c-4228-8b88-c2deea8498c1)</div> |
 
 </div>
 
