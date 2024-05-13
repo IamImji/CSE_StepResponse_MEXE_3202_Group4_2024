@@ -1,4 +1,5 @@
-# CSE_StepResponse_MEXE_3202_Group4_2024
+# <p align="center">**CSE_StepResponse_MEXE_3202_Group4_2024**</div>
+
 ## I. INSTRUCTIONS
 ### Read and comprehend the expected output for each task then perform them according to your group designation.
 
