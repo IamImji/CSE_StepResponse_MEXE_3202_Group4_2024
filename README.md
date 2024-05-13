@@ -102,20 +102,25 @@
 ### 7. Plant with Time Delay
 
 <div align="center">
-   
-| *Transfer Function*                |
-|-----------------------   |
-|![Screenshot 2024-05-13 154306](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/33d7de5f-2d46-4711-a575-1d9a7f7e432e) |
+
+| *Transfer Function*        | *Block Diagram*               |
+|-----------------------   |-----------------------          |
+|![Screenshot 2024-05-13 154306](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/33d7de5f-2d46-4711-a575-1d9a7f7e432e)|  |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+|                           |                             |
 
 </div>
 
-
 ### 8. Nonlinear System Approximation
+
+
 <div align="center">
-   
-| *Transfer Function*                |
-|-----------------------   |
-|![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |
+
+| *Transfer Function*        | *Block Diagram*               |
+|-----------------------   |-----------------------          |
+|![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |  |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+|                           |                             |
 
 </div>
 
