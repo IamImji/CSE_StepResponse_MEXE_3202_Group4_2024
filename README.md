@@ -1,8 +1,24 @@
 # CSE_StepResponse_MEXE_3202_Group4_2024
+## I. INSTRUCTIONS
+### Read and comprehend the expected output for each task then perform them according to your group designation.
 
+## II. OBJECTIVES
+### Use MATLAB as a tool for simulating the step response of the transfer function of control systems.
 
-## Members
-* Cullos, Kristina Crisandra M.
-* Garcia, Mark Jeffereson R.
-* Mirabel, Jan Andrei A.
-* Rayos, Christine Mae C.
+## III. BACKGROUND
+### Transfer Function: 
+### <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Imagine your system is a black box. You put something in (the input), and you get something out (the output). The transfer function, written as a fancy capital G(s), is a mathematical recipe that tells you exactly how that black box transforms the input into the output. It's like a secret formula that depends on the inner workings of the system.</div>
+
+###  <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here's the technical part: The transfer function uses Laplace transforms (don't worry, these transforms turn functions of time into functions of a variable 's'). It expresses the output (Y(s)) as a fraction of the input (X(s)) based on the system's properties.</div>
+
+### Step Response: 
+###  <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is where things get interesting for your lab. The step response is what happens to the output (y(t)) when you give the system a very specific input: a sudden jump from zero to a constant value (like flipping a light switch on). It's like a test question for your system, revealing how it reacts to a quick change.</div>
+
+###  <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By analyzing the step response (a graph of y(t) vs. time), you can learn a lot about the system. Does it reach the final output value quickly? Does it oscillate before settling? The shape of the curve tells you things like the system's stability, speed, and accuracy.</div>
+
+## IV. BLOCK DIAGRAM AND STEP RESPONSES FROM MATLAB CODE AND SIMULINK 
+## V. Members
+### * Cullos, Kristina Crisandra M.
+### * Garcia, Mark Jeffereson R.
+### * Mirabel, Jan Andrei A.
+### * Rayos, Christine Mae C.
