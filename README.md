@@ -105,10 +105,10 @@
 
 | *Transfer Function*        | *Block Diagram*               |
 |-----------------------   |-----------------------   |
-|![Screenshot 2024-05-13 154306](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/33d7de5f-2d46-4711-a575-1d9a7f7e432e) |![Screenshot 2024-05-13 214624](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/d0eb50b7-d1ef-4565-a608-2e7f6c77bead)
+|![Screenshot 2024-05-13 154306](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/33d7de5f-2d46-4711-a575-1d9a7f7e432e) |![Screenshot 2024-05-13 214624](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/d0eb50b7-d1ef-4565-a608-2e7f6c77bead) |
 
 | *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
-![Screenshot 2024-05-13 215014](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/969b55b8-3693-4b2f-b342-d418bf60a2f4) |![Screenshot 2024-05-13 214717](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/a2398ffe-d767-4d5c-bf7e-2ec8a8ab9f35)
+![Screenshot 2024-05-13 215014](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/969b55b8-3693-4b2f-b342-d418bf60a2f4) |![Screenshot 2024-05-13 214717](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/a2398ffe-d767-4d5c-bf7e-2ec8a8ab9f35) |
 
 </div>
 
@@ -119,10 +119,10 @@
 
 | *Transfer Function*        | *Block Diagram*               |
 |-----------------------   |-----------------------   |
-|![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |![Screenshot 2024-05-13 215155](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/320fbff1-53a4-4ba1-a7ec-de42115497ea)
+|![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |![Screenshot 2024-05-13 215155](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/320fbff1-53a4-4ba1-a7ec-de42115497ea) |
 
 | *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
-![Screenshot 2024-05-13 215742](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/469a27f7-24f0-404b-af60-8588e4fef19b) |![Screenshot 2024-05-13 215258](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/3828fa68-cf6e-43da-b13e-4a28777b7897)
+![Screenshot 2024-05-13 215742](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/469a27f7-24f0-404b-af60-8588e4fef19b) |![Screenshot 2024-05-13 215258](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/157971282/3828fa68-cf6e-43da-b13e-4a28777b7897) |
 
 </div>
 
