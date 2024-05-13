@@ -17,6 +17,99 @@
 ###  <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By analyzing the step response (a graph of y(t) vs. time), you can learn a lot about the system. Does it reach the final output value quickly? Does it oscillate before settling? The shape of the curve tells you things like the system's stability, speed, and accuracy.</div>
 
 ## IV. BLOCK DIAGRAM AND STEP RESPONSES FROM MATLAB CODE AND SIMULINK 
+
+### TRANSFER FUNCTIONS
+
+### 1. Second Order Underdamped System
+
+<div align="center">
+   
+| *Example*     |
+|-----------------------   |
+|![Screenshot 2024-05-13 152501](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/241631c4-4f34-4221-810c-5a0699d2bf75) |
+
+</div>
+
+### 2. Second Order Overdamped System
+
+<div align="center">
+   
+| *Example*                |
+|-----------------------   |
+|![Screenshot 2024-05-13 154205](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/01ae9559-b651-4a30-ad0c-a5bea93ef90c) |
+
+</div>
+
+### 3. Second Order Critically Damped System
+
+<div align="center">
+   
+| *Example*                |
+|-----------------------   |
+|![Screenshot 2024-05-13 154227](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/86c425e8-e998-4ce8-a402-57bcf6b62b85) |
+
+</div>
+
+### 4. First Order System
+
+<div align="center">
+   
+| *Example*                |
+|-----------------------   |
+| ![Screenshot 2024-05-13 154237](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/15fe41bd-b0fe-4f2a-8913-205d06cce2d2) |
+
+</div>
+
+### 5. Resonant System
+
+<div align="center">
+   
+| *Transfer Function*                |
+|-----------------------   |
+|![Screenshot 2024-05-13 154247](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/591c282b-9b00-40e8-bce7-d967cf136d19) |
+
+</div>
+
+### 6. Electrical Filter with Multiple Poles
+
+<div align="center">
+   
+| *Transfer Function*           |
+|-----------------------   |
+|![Screenshot 2024-05-13 154258](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/19b38b0f-941c-4604-ae7b-4dcd369b2e7c) |
+
+</div>
+
+### 7. Plant with Time Delay
+
+<div align="center">
+   
+| *Transfer Function*                |
+|-----------------------   |
+|![Screenshot 2024-05-13 154306](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/33d7de5f-2d46-4711-a575-1d9a7f7e432e) |
+
+</div>
+
+### 8. Nonlinear System Approximation
+<div align="center">
+   
+| *Transfer Function*                |
+|-----------------------   |
+|![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |
+
+</div>
+
+### 2. Second Order Overdamped System
+
+<div align="center">
+   
+| *Example*                |
+|-----------------------   |
+|                          |
+
+</div>
+
+
 ## V. Members
 ### * Cullos, Kristina Crisandra M.
 ### * Garcia, Mark Jeffereson R.
