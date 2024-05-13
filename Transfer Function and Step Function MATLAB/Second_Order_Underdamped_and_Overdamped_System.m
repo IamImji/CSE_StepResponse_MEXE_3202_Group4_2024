@@ -15,6 +15,7 @@ denomenator2 = [1 5 6]
 TF2 = tf(numerator2, denomenator2)
 
 %% step response
-step(TF2,0:0.1:30)
-figure
+figure(1);
 step(TF1,0:0.1:30)
+figure(2);
+step(TF2,0:0.1:30)
