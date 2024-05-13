@@ -26,9 +26,9 @@
    
 | *Transfer Function*                | *Block Diagram*               |
 |-----------------------   |-----------------------   |
-|![Screenshot 2024-05-13 152501](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/241631c4-4f34-4221-810c-5a0699d2bf75)  | ![Screenshot 2024-05-13 170446](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/5ce5ad46-99e2-4124-819c-2295e09e10d2) |
+|<div align="center">![Screenshot 2024-05-13 152501](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/241631c4-4f34-4221-810c-5a0699d2bf75) </div> | ![Screenshot 2024-05-13 170446](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/5ce5ad46-99e2-4124-819c-2295e09e10d2) |
 | *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
-| ![Screenshot 2024-05-13 171714](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bcd77c7-67e8-49b4-8734-39e52d7fa6c1) | ![Screenshot 2024-05-13 171801](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/c4e57662-5215-415c-8f2a-ff5186bf54a9) |
+| ![Screenshot 2024-05-13 171714](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bcd77c7-67e8-49b4-8734-39e52d7fa6c1) |<div align="center">![Screenshot 2024-05-13 171801](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/c4e57662-5215-415c-8f2a-ff5186bf54a9)</div> |
 
 </div>
 
