@@ -99,16 +99,6 @@
 
 </div>
 
-### 2. Second Order Overdamped System
-
-<div align="center">
-   
-| *Example*                |
-|-----------------------   |
-|                          |
-
-</div>
-
 
 ## V. Members
 ### * Cullos, Kristina Crisandra M.
