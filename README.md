@@ -64,19 +64,23 @@
 
 <div align="center">
    
-| *Transfer Function*                |
-|-----------------------   |
-|![Screenshot 2024-05-13 154247](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/591c282b-9b00-40e8-bce7-d967cf136d19) |
+| *Transfer Function*                | *Block Diagram*               |
+|-----------------------   |-----------------------   |
+|![Screenshot 2024-05-13 154247](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/591c282b-9b00-40e8-bce7-d967cf136d19) |![Screenshot 2024-05-13 164114](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/55e159ab-0e8b-4981-bd83-871c4d76c697) |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+|![Screenshot 2024-05-13 164149](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/91e0ac8a-de11-449d-afb5-44f4c445bee8) |![Screenshot 2024-05-13 164132](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/c39b419a-bb34-4041-ba7c-f4182c0af1fd) |
 
 </div>
 
 ### 6. Electrical Filter with Multiple Poles
 
 <div align="center">
-   
-| *Transfer Function*           |
-|-----------------------   |
-|![Screenshot 2024-05-13 154258](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/19b38b0f-941c-4604-ae7b-4dcd369b2e7c) |
+
+| *Transfer Function*           | *Block Diagram*               |
+|-----------------------   |-----------------------   |
+|![Screenshot 2024-05-13 154258](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/19b38b0f-941c-4604-ae7b-4dcd369b2e7c) |![Screenshot 2024-05-13 165609](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/64624a7b-a03f-4077-8762-ccda85b7eeb5) |
+| *<div align="center">Step Response MATLAB*</div>                | *<div align="center">Step Response SIMULINK*</div>               |
+|![Screenshot 2024-05-13 165638](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8fe88fcc-dac9-4cd7-b1dd-29cdd2fe4fac) |![Screenshot 2024-05-13 165706](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/19141607-a2c0-4edd-a5ee-098e3c924942) |
 
 </div>
 
@@ -96,6 +100,16 @@
 | *Transfer Function*                |
 |-----------------------   |
 |![Screenshot 2024-05-13 154315](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bb84006-d3fe-4cfc-be0f-3306973226ee) |
+
+</div>
+
+### 2. Second Order Overdamped System
+
+<div align="center">
+   
+| *Example*                |
+|-----------------------   |
+|                          |
 
 </div>
 
